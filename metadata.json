@@ -1,0 +1,6 @@
+{
+  "name": "WonderQuest Kids",
+  "description": "PLAY • EXPLORE • LEARN • DISCOVER — A safe, colorful educational adventure game for children aged 2–12.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
